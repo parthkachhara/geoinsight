@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Impact of the new EU Carbon Border Adjustment Mechanism",
+    "content": "The CBAM will significantly affect imports from non-EU countries with less stringent climate policies. This shifts the trade balance...",
+    "link_url": "https://europa.eu",
+    "neutrality_score": 85,
+    "neutrality_tag": "Highly Objective",
+    "upvotes": 24,
+    "downvotes": 2,
+    "created_at": "2026-02-26T14:38:02.676Z",
+    "profiles": {
+      "username": "student_analyst"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Tech Sanctions on Asian Chip Market",
+    "content": "The recent blockades are ruining our economy. We must lift them immediately to save domestic hardware prices!",
+    "link_url": "",
+    "neutrality_score": 30,
+    "neutrality_tag": "Strongly Biased",
+    "upvotes": 16,
+    "downvotes": 12,
+    "created_at": "2026-02-25T14:38:02.676Z",
+    "profiles": {
+      "username": "tech_trader_99"
+    }
+  }
+]
